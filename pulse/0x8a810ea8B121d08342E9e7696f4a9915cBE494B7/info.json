@@ -1,0 +1,11 @@
+{
+    "name": "PulseX",
+    "website": "",
+    "description": "",
+    "explorer": "https://scan.pulsechain.com/token/0x8a810ea8B121d08342E9e7696f4a9915cBE494B7",
+    "type": "ERC20",
+    "symbol": "PLSX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8a810ea8B121d08342E9e7696f4a9915cBE494B7"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Incentive",
+    "website": "",
+    "description": "",
+    "explorer": "https://scan.pulsechain.com/token/0x6eFAfcb715F385c71d8AF763E8478FeEA6faDF63",
+    "type": "ERC20",
+    "symbol": "INC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6eFAfcb715F385c71d8AF763E8478FeEA6faDF63"
+}
